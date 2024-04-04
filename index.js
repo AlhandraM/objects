@@ -1,5 +1,5 @@
 //the employee object
-const employee = { name: "Sam", streetAddress: "Moi Avenue" };
+const employee = { name: "Marie", streetAddress: "Long Avenue" };
 
 function updateEmployeeWithKeyAndValue(employee, key, value) {
   return {
